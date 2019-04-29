@@ -1,4 +1,7 @@
-Files:
+*Data Engineering Intern Test, for Omelas.co*
+by Felipe Alamos
+
+Files in this repo:
 
 schema.sql: contains the database DDL schema
 query.sql: query using both tables to calculate number of crimes/habitant for each state
